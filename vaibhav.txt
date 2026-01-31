@@ -1,0 +1,22 @@
+# 🚀 Portfolio Website & AI Projects
+Welcome to my repository! This project showcases my work as a **Second-Year AI & Data Science student**.
+
+## 📋 Project Overview
+Currently, I am focusing on building a professional portfolio and exploring the intersection of **Artificial Intelligence** and **Sustainability**.
+
+### Key Projects:
+* **Software Engineer Portfolio:** A web-based showcase of my skills and achievements.
+* **Environmental Monitoring:** Using data science to analyze water and air quality.
+* **DS Algorithms:** Implementation of stacks, trees, and graphs in C++.
+
+## 🛠 Tech Stack
+* **Languages:** Python, C++, C, HTML/CSS
+* **AI/ML:** Scikit-learn, Prompt Engineering, Generative AI Case Studies
+* **Tools:** VS Code, Git, Google Pixel 7A for mobile testing
+
+## 📂 File Structure
+```text
+├── newnmitdemo/        # Main portfolio project folder
+├── prac2.py            # Python data structures practice
+├── .venv/              # Virtual environment for DS libraries
+└── README.md           # This documentation file
